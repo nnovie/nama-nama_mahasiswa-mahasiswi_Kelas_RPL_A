@@ -37,7 +37,6 @@
       <th>14</th>
       <th>15</th>
       <th>16</th>
-      <th>16</th>
       <th>17</th>
       <th>18</th>
       <th>19</th>
