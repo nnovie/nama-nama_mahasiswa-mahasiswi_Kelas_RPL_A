@@ -41,10 +41,10 @@
 </tr>
    <tr>
       <th>9</th>
-      <th.DICKY CANDRA P</th>
+      <th>DICKY CANDRA P</th>
 </tr>
    <tr>
-      <th>10</th
+       <th>10</th>
       <th>FADHIL MUHAMMAD</th>
 </tr>
    <tr>
