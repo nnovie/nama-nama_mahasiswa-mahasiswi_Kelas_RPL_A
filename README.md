@@ -3,7 +3,7 @@
 <html>
 <head>
     
-<title>Tugas</title>
+<title>ABSENSI</title>
 </head>
 <body>
 <table border="1">
