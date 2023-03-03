@@ -25,7 +25,7 @@
 </tr>
    <tr>
       <th>5</th>
-      <th>ANGGA DWI -</th>
+      <th>ANGGA DWI P</th>
 </tr>
    <tr>
       <th>6</th>
