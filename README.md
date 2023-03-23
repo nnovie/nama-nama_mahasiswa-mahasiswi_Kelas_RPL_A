@@ -117,7 +117,7 @@
 </tr>
    <tr>
     <th>28</th>
-    <th>VINCENTUS NONG KELLY HALLEY</h>
+    <th>VINCENTUS NONG KELLY HALLEY</th>
 </tr>
    <tr>
     <th>29</th>
