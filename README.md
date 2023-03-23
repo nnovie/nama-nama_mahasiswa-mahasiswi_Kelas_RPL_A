@@ -20,7 +20,7 @@
       <th>AHMAD RAYHAN</th>
 </tr>
    <tr>
-      <th>4</th>A
+      <th>4</th>
       <th>ALDI</th>
 </tr>
    <tr>
