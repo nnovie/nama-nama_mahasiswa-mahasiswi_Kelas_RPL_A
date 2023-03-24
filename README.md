@@ -7,6 +7,11 @@
 </head>
 <body>
 <table border="1">
+        <tr style="background-color: limegreen;"
+<tr>
+  <th>No</th>
+  <th>Nama Siswa - Siswi</th>
+</tr>
 <tr>
   <th>1</th>
   <th>ADITHYA</th>
